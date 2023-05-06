@@ -1,18 +1,26 @@
 [
   {
-    "titleup": "Whiskers",
-    "date" : "cat",
-   "desc" : "cat",
-   "tomore" : "cat",
+    "name": "Whiskers",
+    "species" : "cat",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
   },
-   {
-    "titleup": "Whiskers",
-    "date" : "cat",
-   "desc" : "cat",
-   "tomore" : "cat",
+  {
+    "name": "Woof",
+    "species" : "dog",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
   },
-  
-  
-  
-  
-  ]
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  }
+]
